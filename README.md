@@ -65,3 +65,7 @@ starbucks-clone/
 For **educational use only**.
 Starbucks and its logo are trademarks of Starbucks Coffee Company.
 Please obtain proper permission before using any brand assets publicly.
+
+---
+## For Live Preview 
+[Starbucks Clone](https://zeus0x01.github.io/Starbuck-clone/)
